@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Melissa Lopes 👋
 
-<!--
-**melissafagundes/melissafagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Analytics student based in Dublin  
+🌍 Background in Meteorology and Climate Science  
+📊 Interested in Data Analysis, Business Analytics, and Environmental Data  
 
-Here are some ideas to get you started:
+## 💡 About Me
+I am a Data Analytics student with experience in analysing both business and environmental data. I have worked with Python, SQL, and Excel to clean datasets, perform exploratory analysis, and generate insights to support decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in meteorology allows me to bring a unique perspective to data analysis, especially when working with climate and real-world datasets.
+
+## 🛠️ Skills
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Excel
+- Data Cleaning & EDA
+- Data Visualisation
+
+## 📂 Projects
+🔹 Hurricane Data Analysis  
+Analysis of historical hurricane data using Python to identify patterns in wind speed and pressure.
+
+## 🚀 Currently
+- Completing Higher Diploma in Data Analytics (Ireland)
+- Open to data-related opportunities in Ireland and the EU
+
+## 📫 Contact
+📧 melissalopesfagundes@gmail.com
